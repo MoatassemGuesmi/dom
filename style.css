@@ -1,0 +1,11 @@
+/*section one*/
+main{
+    display: flex;
+    justify-content: space-around;
+}
+section{
+    border: 1px solid black;
+    justify-content: space-around;
+    
+}
+.x{color: red;}
